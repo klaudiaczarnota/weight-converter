@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300&display=swap');
+body { 
+    margin-top: 70px;
+    background-image: url(food.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:#fff;
+    font-family: Heebo;
+}
+
+h1 {
+    background-color: rgb(187, 78, 78, 0.9);
+    color: #000;
+  
+}
+
+div.card-primary {
+    padding: 15px 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+div.card-succes {
+    padding: 15px 10px;
+    background-color:  rgba(0, 0, 0, 0.7);
+}
+
+div.card-danger {
+    padding: 15px 10px;
+    background-color:  rgba(0, 0, 0, 0.7);
+}
